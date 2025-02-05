@@ -25,9 +25,9 @@ To the extent possible under law, the author has waived all copyright and relate
 - [MPEG-1 Audio Layer III .mp3](mp3.mp3)
 - [Waveform Audio File Format .wav](wav.wav)
 - [FLAC .ogg](flac.ogg)
-- [OPUS .ogg](opus.ogg)
-- [speex .ogg](speex.ogg)
-- [vorbis .ogg](vorbis.ogg)
+- [Opus .ogg](opus.ogg)
+- [Speex .ogg](speex.ogg)
+- [Vorbis .ogg](vorbis.ogg)
 
 ### Documents
 - [Compiled HTML help .chm](compiledhtml.chm)
